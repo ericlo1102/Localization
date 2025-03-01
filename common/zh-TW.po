@@ -20,10 +20,10 @@ msgid "Main"
 msgstr "主要"
 
 msgid "Pre-market"
-msgstr "市前交易"
+msgstr "盤前交易"
 
 msgid "Post-market"
-msgstr "市後交易"
+msgstr "盤後交易"
 
 msgid "Active"
 msgstr "活動"
@@ -68,16 +68,16 @@ msgid "Take profit price should be less then limit price"
 msgstr "獲利價格應低於限價"
 
 msgid "Market if touched"
-msgstr "市場,如果觸及"
+msgstr "觸碰市價單"
 
 msgid "Market"
 msgstr "市價"
 
 msgid "Stop loss price should be less then market ask price"
-msgstr "止損價應該低於市場要價"
+msgstr "止損價應該低於市價"
 
 msgid "Take profit price should be more then market ask price"
-msgstr "獲利價格應該比市場要價更高"
+msgstr "獲利價格應該比市價更高"
 
 msgid "Stop loss price should be more then market bid price"
 msgstr "止損價格應該高於市場買入價"
@@ -101,7 +101,7 @@ msgid "Quantity"
 msgstr "數量"
 
 msgid "Total"
-msgstr "總"
+msgstr "總和"
 
 msgid "Stop limit"
 msgstr "停損限價"
@@ -110,19 +110,19 @@ msgid "Stop"
 msgstr "停損"
 
 msgid "Stop loss price should be less then trigger price"
-msgstr "止損價格應該小於觸發價格"
+msgstr "止損價格應該小於觸發價"
 
 msgid "Take profit price should be more then trigger price"
-msgstr "採取利潤價格應該比觸發價格更多"
+msgstr "止盈價格應高於觸發價"
 
 msgid "Stop loss price should be more then trigger price"
-msgstr "止損價格應該比觸發價格多"
+msgstr "止損價格應該高於觸發價"
 
 msgid "Take profit price should be less then trigger price"
-msgstr "取利價格應該少然後觸發價格"
+msgstr "止盈價格應該低於觸發價"
 
 msgid "Trailing Stop"
-msgstr "尾隨停止"
+msgstr "移動停損"
 
 msgid "Trailing offset"
 msgstr "尾隨偏移量"
@@ -152,31 +152,31 @@ msgid "Default"
 msgstr "預設"
 
 msgid "Day"
-msgstr "白天保證金"
+msgstr "日內保證金"
 
 msgid "Fill Or Kill"
-msgstr "填充或殺死"
+msgstr "全部成交或全部取消"
 
 msgid "Good Till Cancel"
-msgstr "好到取消"
+msgstr "取消前有效"
 
 msgid "Immediate Or Cancel"
 msgstr "立即或取消"
 
 msgid "Good Till Date"
-msgstr "好到日期"
+msgstr "到期前有效"
 
 msgid "Good Till Time"
-msgstr "好到時間"
+msgstr "到期前有效"
 
 msgid "Fill And Kill"
-msgstr "填充和殺死"
+msgstr "全部成交或全部取消"
 
 msgid "At The Open"
-msgstr "在公開賽上"
+msgstr "開盤訂單"
 
 msgid "At The Close"
-msgstr "在關閉"
+msgstr "收盤訂單"
 
 msgid "Undefined"
 msgstr "未定義"
